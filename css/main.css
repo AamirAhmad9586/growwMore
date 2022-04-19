@@ -1,0 +1,37 @@
+.ignoreHover:hover{
+background-color: #6980FE;
+color: white;
+}
+.myAddDesignationDiv
+{
+float : right;
+margin-right : 22px;
+margin-bottom : 10px;
+width: 200px;
+}
+.myAddEmployeeDiv
+{
+float : right;
+margin-right : 22px;
+margin-bottom : 10px;
+width: 200px;
+}
+.myPlusButton
+{
+float : right;
+}
+.defaultTextBox{
+padding:0;
+height:30px;
+position:relative;
+left:0;
+outline:none;
+border:1px solid #cdcdcd;
+border-color:rgba(0,0,0,.15);
+background-color:white;
+font-size:16px;
+}
+.advancedSearchTextbox{
+width:526px;
+margin-right:-4px;
+}
